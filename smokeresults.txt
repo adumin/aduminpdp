@@ -5,4 +5,4 @@ commit new branch
 commit new branch #not approved
 
 23.12.2019: please perform smoke testing of the newest RC
-
+23.12.2019: After finishing please send a report.
