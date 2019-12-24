@@ -1,0 +1,34 @@
+From bedaa66ee022bf5b3df6c42fe535e5517a94d411 Mon Sep 17 00:00:00 2001
+From: Andrii Dumin <adumin@intellias.com>
+Date: Tue, 24 Dec 2019 15:33:08 +0200
+Subject: [PATCH] PATCH_TEST COMMIT
+
+---
+ smokeresults.txt | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+diff --git a/smokeresults.txt b/smokeresults.txt
+index 92d6dcc..c084de5 100644
+--- a/smokeresults.txt
++++ b/smokeresults.txt
+@@ -1,5 +1,8 @@
+ 20.12.2019 - approwed
+ hello world
++
++TEST_PATCH comment
++
+ commit #3
+ commit new branch
+ commit new branch #not approved
+@@ -7,3 +10,8 @@ commit new branch #not approved
+ 23.12.2019: please perform smoke testing of the newest RC
+ 23.12.2019: After finishing please send a report.
+ 23.12.2019: Please inform if RC is shippable.
++
++
++
++
++
+-- 
+2.24.1.windows.2
+
