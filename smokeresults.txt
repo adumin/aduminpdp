@@ -7,6 +7,7 @@ commit #3
 commit new branch
 commit new branch #not approved
 
+<<<<<<< HEAD
 23.12.2019: please perform smoke testing of the newest RC
 23.12.2019: After finishing please send a report.
 23.12.2019: Please inform if RC is shippable.
@@ -15,3 +16,7 @@ commit new branch #not approved
 
 
 
+=======
+
+branch version test (adumin-patch-1) commit
+>>>>>>> 8d86e260fea7e755da73c4ccdb4be59af6d80d12
