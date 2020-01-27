@@ -8,3 +8,4 @@ commit new branch #not approved3333333333333
 23.12.2019: After finishing please send a report.
 23.12.2019: Please inform if RC is shippable.
 
+23.01.2010: Smoke test performed on PAG NAR. Build 111929. 2 new bugs found.
